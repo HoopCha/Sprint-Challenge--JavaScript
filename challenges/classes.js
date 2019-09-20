@@ -48,5 +48,6 @@ const cubeTwo = new CubeMaker({
 console.log(cube.volume()); // 125
 console.log(cube.surfaceArea()); // 150
 
+
 console.log(cubeTwo.volume()); // 4096
 console.log(cubeTwo.surfaceArea()); // 1536
