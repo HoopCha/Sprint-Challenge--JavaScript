@@ -45,10 +45,10 @@ const velociraptor = {
 console.log(tyrannosaurus.weight);
 
 // What was the diet of a velociraptor?
-console.log(stegosaurus.length);
+console.log(velociraptor.diet);
 
 // How long was a stegosaurus?
-console.log(velociraptor.diet);
+console.log(stegosaurus.length);
 
 // What time period did tyrannosaurus live in?
 console.log(tyrannosaurus.period);
